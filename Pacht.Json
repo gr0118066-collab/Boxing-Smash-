@@ -1,0 +1,13 @@
+{
+  "version": "1.3.1-pro",
+  "releasedAt": "2026-11-18",
+  "bannerText": {
+    "es": "TU SERVIDOR REMOTO ACTIVO · EVENTO ESPECIAL",
+    "en": "YOUR REMOTE SERVER LIVE · SPECIAL EVENT"
+  },
+  "bonusCoinsGift": 200,
+  "unlockItemIds": ["full_remote_pro"],
+  "extraHeadlinesEs": ["!CAMPEON REMOTO! {winner} ARRASO A {loser} EN {ring}"],
+  "extraHeadlinesEn": ["REMOTE CHAMP! {winner} CRUSHED {loser} AT {ring}"],
+  "extraInterviewQuestions": []
+}
