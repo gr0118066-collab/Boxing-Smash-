@@ -1,0 +1,12 @@
+{
+  "game": "Bruiser Boxing Championship",
+  "currentVersion": "1.3.1",
+  "patchVersion": "1.3.1-pro",
+  "minRequiredVersion": "1.2.0",
+  "releasedAt": "2026-11-18",
+  "releaseNotes": {
+    "es": "Evento en vivo: +200 monedas y Skin Campeon Cosmico gratis.",
+    "en": "Live Event: +200 coins and Cosmic Champion skin free."
+  },
+  "serverStatus": "online"
+}
